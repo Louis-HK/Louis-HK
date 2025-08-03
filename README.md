@@ -1,5 +1,5 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e026d,100:ffb300&height=230&section=header&text=Louis-HK%20%7C%20Strategic%20Finance%20%26%20Blockchain&fontSize=32&fontColor=ffffff" alt="Louis-HK | Strategic Finance & Blockchain"/>
+<img src="./banner-deluxe.svg" alt="Louis-HK | Strategic Finance & Blockchain" width="100%"/>
+
 
 
 ## 👋 Welcome to My World
