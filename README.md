@@ -1,34 +1,51 @@
-## 👋 Welcome! I'm Louis
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e026d,100:ffb300&height=230&section=header&text=Louis-HK%20%7C%20Strategic%20Finance%20%26%20Blockchain&fontSize=32&fontColor=ffffff" alt="Louis-HK | Strategic Finance & Blockchain"/>
+
+
+## 👋 Welcome to My World
 
 🎯 **M&A Director | Blockchain & Strategic Finance Expert**  
-💡 Passionate about innovation, tokenization, DeFi, and integrating advanced technologies into finance.
+💡 Driving innovation through tokenization, DeFi, and the integration of advanced technologies into the global financial ecosystem.  
+
+I combine high-level strategic vision with hands-on technical expertise in blockchain, M&A, cross-border investments, and large-scale infrastructure projects.
 
 ---
 
 ## 🚀 Areas of Expertise
-- **Finance & Investment** – Cross-border M&A, strategic acquisitions, financial structuring.  
-- **Blockchain & Crypto** – Smart contract development (ERC20 / ERC721 / ERC1155), asset tokenization, arbitrage automation.  
-- **Infrastructure** – Private Ethereum node deployment (RPC, MEV, bots), Chainlink & oracle integrations.  
-- **Strategic Projects** – Large-scale, interdisciplinary projects (energy transition, ecological impact, futuristic infrastructures).  
+- **Finance & Investment** – Mergers & acquisitions, strategic growth planning, high-value asset structuring (MTN, SBLC, SPV).  
+- **Blockchain & DeFi** – Smart contract engineering (ERC20 / ERC721 / ERC1155), asset tokenization, cross-chain interoperability.  
+- **Infrastructure** – Private Ethereum node deployment (RPC, MEV, bots), Chainlink Oracles, automated transaction systems.  
+- **Strategic Projects** – Energy transition, sustainable infrastructure, next-gen city concepts, high-density cognitive environments.
 
 ---
 
 ## 📌 Featured Projects
-### 🔹 [SuryaToken](#)
-Blockchain initiative for Indonesia's energy transition.  
-**Goal**: Cut CO₂ emissions by 29% by 2030 through tokenization and financial incentives.
 
-### 🔹 [Submarine Space](#)
-Visionary autonomous underwater cities integrating AI, renewable energy, sustainable agriculture, and tokenized banking.
+### 🌞 SuryaToken  
+Blockchain-driven renewable energy project supporting Indonesia’s 2030 CO₂ reduction goals.  
+**Focus**: Tokenized incentives for green energy adoption.  
 
-### 🔹 [Arbitrage Bot AI](#)
-High-speed AI-driven cross-exchange arbitrage bot for crypto markets.
+### 🌊 Submarine Space  
+Autonomous underwater smart cities integrating AI, renewable energy, sustainable agriculture, and tokenized banking.  
+**Goal**: Build self-sustaining habitats powered by blockchain-managed economies.  
+
+### 🤖 AI-Driven Arbitrage Bot  
+Cross-exchange arbitrage automation using AI for microsecond execution and market efficiency in DeFi.  
+
+### 🛡️ Secure Global Transfers  
+Development of secure SWIFT GPI & MT103 fund transfer solutions for cross-border transactions.  
+
+### ⚙️ Ethereum Private Nodes & MEV Infrastructure  
+High-performance Ethereum RPC nodes hosted on Hetzner for MEV bots, sniping, and high-frequency blockchain operations.  
+
+### 🏗️ M&A Strategic Advisory  
+Complex acquisitions and integrations, including cross-border asset structuring and regulatory optimization.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,python,javascript,nodejs,docker,linux,git,github,ethereum,polygon" />
+  <img src="https://skillicons.dev/icons?i=solidity,python,javascript,nodejs,docker,linux,git,github,ethereum,polygon,html,css,vscode" />
 </p>
 
 ---
@@ -41,10 +58,11 @@ High-speed AI-driven cross-exchange arbitrage bot for crypto markets.
 
 ---
 
+
 ## 📫 Get in Touch
-- **LinkedIn**: [[My LinkedIn Profile](https://www.linkedin.com/in/louis-legal/)](#)  
+- **LinkedIn**: [[Louis-HK LinkedIn Profile](https://www.linkedin.com/in/louis-legal/)]
 - **E-mail**: legal.law.service@proton.me  
-- **Website / Portfolio**: [[My Website](https://asiahlegaljaya.com/)](#)  
+- **Website / Portfolio**: [[Louis-HK Website](https://asiahlegaljaya.com/)]
 
 ---
 
