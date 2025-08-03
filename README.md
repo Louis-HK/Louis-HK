@@ -42,9 +42,9 @@ High-speed AI-driven cross-exchange arbitrage bot for crypto markets.
 ---
 
 ## 📫 Get in Touch
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/louis-legal/)](#)  
-- **E-mail**: contact@yourdomain.com  
-- **Website / Portfolio**: [Your Website](#)  
+- **LinkedIn**: [[My LinkedIn Profile](https://www.linkedin.com/in/louis-legal/)](#)  
+- **E-mail**: legal.law.service@proton.me  
+- **Website / Portfolio**: [[My Website](https://asiahlegaljaya.com/)](#)  
 
 ---
 
