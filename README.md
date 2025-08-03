@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e026d,100:ffb300&height=200&section=header&text=Louis%20-%20Strategic%20Finance%20%26%20Blockchain&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
-
 ## 👋 Welcome! I'm Louis
 
 🎯 **M&A Director | Blockchain & Strategic Finance Expert**  
