@@ -1,7 +1,3 @@
-<img src="./banner-deluxe.svg" alt="Louis-HK | Strategic Finance & Blockchain" width="100%"/>
-
-
-
 ## 👋 Welcome to My World
 
 🎯 **M&A Director | Blockchain & Strategic Finance Expert**  
